@@ -1,0 +1,21 @@
+{
+  "name": "core-scroll-header-panel",
+  "private": true,
+  "dependencies": {
+    "core-field": "Polymer/core-field#master",
+    "core-icon-button": "Polymer/core-icon-button#master",
+    "core-input": "Polymer/core-input#master",
+    "core-media-query": "Polymer/core-media-query#master",
+    "core-toolbar": "Polymer/core-toolbar#master"
+  },
+  "homepage": "https://github.com/Polymer/core-scroll-header-panel",
+  "_release": "742c1477d4",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "742c1477d40b7d97480bddcb8fe0c8dbbe9c431b"
+  },
+  "_source": "git://github.com/Polymer/core-scroll-header-panel.git",
+  "_target": "master",
+  "_originalSource": "Polymer/core-scroll-header-panel"
+}
